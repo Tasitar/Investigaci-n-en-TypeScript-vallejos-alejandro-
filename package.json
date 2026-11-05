@@ -1,0 +1,24 @@
+{
+  "name": "trabajo-practico-integrafor-n4",
+  "version": "1.0.0",
+  "description": "● ¿Qué es TypeScript y quién lo desarrolla?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tasitar/Investigaci-n-en-TypeScript-vallejos-alejandro-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Tasitar/Investigaci-n-en-TypeScript-vallejos-alejandro-/issues"
+  },
+  "homepage": "https://github.com/Tasitar/Investigaci-n-en-TypeScript-vallejos-alejandro-#readme",
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
+}
