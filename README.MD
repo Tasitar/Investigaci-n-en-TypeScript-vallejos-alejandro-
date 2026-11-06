@@ -84,7 +84,7 @@ https://www.luisllamas.es/typescript-parametros-funciones/
     son valores predeterminado que se asignan a un parametro de una funcion cuando no se proporciona un valo al llamar a la funcion
 
 
-Tema 5: Interfaces y type
+## Tema 5: Interfaces y type
 ● ¿Qué es una interfaz y para qué sirve?
     permite definir la estructura y el comportamiento de un objeto
     se declaran usando la palabra interface
@@ -126,7 +126,7 @@ Tema 5: Interfaces y type
 
 ● ¿Qué es un tipo literal?
 
-    son utilizados para definir variables con valores especificos y predijados
+    son utilizados para definir variables con valores especificos y prefijados
 
     type Direccion = "norte" | "sur" | "este" | "oeste";
 

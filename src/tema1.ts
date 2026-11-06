@@ -1,3 +1,3 @@
-let nombre: string = "Alejnadro"
+// let nombre: string = "Alejnadro"
 
-console.log(`hola ${nombre}`);
+// console.log(`hola ${nombre}`);
