@@ -5,8 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "tema1": "tsx watch src/tema1.ts",
+    "dev": "tsx watch src/tema5.ts",
     "check": "tsc --noEmit"
+
   },
   "repository": {
     "type": "git",
