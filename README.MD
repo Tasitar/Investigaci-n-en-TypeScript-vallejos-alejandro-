@@ -10,7 +10,7 @@
 
 ● ¿Qué ventajas ofrece?
     1.detecta errores mientras se escribe el codigo, antes de ejecutarlo
-    2. mejora el autoconpletado y la refectorizacion en el editor
+    2. mejora el autocompletado y la refectorizacion en el editor
     3. Hace el codigo mas mantenible y escalable 
     4. los tipos funcionan documentacion del propio codigo
 
@@ -25,7 +25,7 @@
 
 
 ● ¿Para qué sirve el archivo tsconfig.json?
-    es el archivo de configutacion del proyecto. le indica a TypeScript que archivos forman el proyecto, que tan estricto debe ser a verificar tipos,como generar el JavaScript
+    es el archivo de configuracion del proyecto. le indica a TypeScript que archivos forman el proyecto, que tan estricto debe ser a verificar tipos,como generar el JavaScript
 
     tambien define que la carpeta es un proyecto TS. Sin tsconfig.json, tsc no sabe que compilar y muestra 
 
@@ -36,7 +36,7 @@
 ● ¿Qué diferencia hay entre ejecutar un archivo con tsc, tsx y node?
 
     tsc: Verifica tipos y genera JavaScript
-    tsx: Genera JavaScriot sin verificar tipos 
+    tsx: Genera JavaScrit sin verificar tipos 
     node: Solo borra las anotaciones de tipo
 
 ## Tema 3: Tipos básicos
@@ -76,7 +76,7 @@
 
 ● ¿Qué es un parámetro opcional?
 
-    per,otem definir argumentos que pueden o no ser proporcionados al llamar a una funcion
+    es para definir argumentos que pueden o no ser proporcionados al llamar a una funcion
 
 https://www.luisllamas.es/typescript-parametros-funciones/
 
@@ -86,6 +86,7 @@ https://www.luisllamas.es/typescript-parametros-funciones/
 
 ## Tema 5: Interfaces y type
 ● ¿Qué es una interfaz y para qué sirve?
+
     permite definir la estructura y el comportamiento de un objeto
     se declaran usando la palabra interface
     interface Persona {
